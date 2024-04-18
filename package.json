@@ -1,7 +1,7 @@
 {
-  "name": "roadmapjavascript",
+  "name": "learn-javascript",
   "version": "1.0.0",
-  "description": "Este repositorio se enfoca en el de apredizaje, estudio y trabajo para cada uno de los elementos designados por RoadMap para el aprendizaje de javascript.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -234,10 +234,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CarlosCalderon01/RoadMap_JavaScript.git"
+    "url": "git+https://github.com/CarlosCalderon01/learn-javascript.git"
   },
   "bugs": {
-    "url": "https://github.com/CarlosCalderon01/RoadMap_JavaScript/issues"
+    "url": "https://github.com/CarlosCalderon01/learn-javascript/issues"
   },
-  "homepage": "https://github.com/CarlosCalderon01/RoadMap_JavaScript#readme"
+  "homepage": "https://github.com/CarlosCalderon01/learn-javascript#readme"
 }
