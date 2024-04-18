@@ -18,8 +18,8 @@
 
 # bibliography
 
-- Link to access my progress in RoadMaps [Link!](https://roadmap.sh/javascript?s=645ab341f3d9ecfa51d91427)
+- Link to view JavaScript in RoadMaps [Link!](https://roadmap.sh/javascript)
 
-- Link to access my JavaScript in RoadMaps [Link!](https://roadmap.sh/javascript)
+- Link to access my progress in RoadMaps [Link!](https://roadmap.sh/javascript?s=645ab341f3d9ecfa51d91427)
 
 # End
